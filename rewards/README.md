@@ -1,5 +1,7 @@
 # Rewards
 
+List of rewards.
+
 |  Name |  File |
 |---|---|
-| Mainnet launch reward  | mainnet_launch_reward.xlsx |
+| Early Voting Reward  | early_voting_reward.xlsx |
