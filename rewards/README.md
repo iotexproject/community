@@ -4,4 +4,4 @@ List of rewards.
 
 |  Name |  File |
 |---|---|
-| Early Voting Reward  | early_voting_reward.xlsx |
+| Early Voting Reward  | early_voting_reward.csv |
